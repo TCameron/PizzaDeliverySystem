@@ -1,6 +1,7 @@
 # PizzaDeliverySystem
 
-Done over winter quarter in 2010-2011 for Software Engineering class. Made in Java.
+Done over winter quarter in 2010-2011 for Software Engineering class. Made in Java using Eclipse IDE.
+The team used Subversion for version control.
 
 It was a five person team, where we each had our own development roles. It was supposed to
 be an example of the Agile development method. I was assigned to testing coordinator, although,
